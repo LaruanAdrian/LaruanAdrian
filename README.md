@@ -1,5 +1,4 @@
 <!-- Galaxy Banner -->
-<img src="https://i.ibb.co/rx5DFbs/space-banner.png" alt="Galaxy Banner" width="100%" />
 
 # 👨‍💻 About Me
 
