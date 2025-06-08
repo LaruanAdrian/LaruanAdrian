@@ -10,9 +10,7 @@ I’m a passionate programmer who enjoys building web and mobile applications. I
 
 > These projects are hosted here or are in development.
 
-- 🌐 **Portfolio Website** – A responsive portfolio using HTML, CSS, and JavaScript  
-- 🕹 **Mini Game Projects** – JavaScript and Unity games (coming soon)  
-- 📱 **Productivity Android App** – Kotlin-based app (in progress)
+
 
 ---
 
@@ -50,14 +48,6 @@ I’m a passionate programmer who enjoys building web and mobile applications. I
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- TypeScript ⚙️  
-- React Native 📱  
-- Cloud Hosting (GitHub Pages, Netlify, Vercel) ☁️  
 
 ---
 
