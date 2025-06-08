@@ -13,6 +13,12 @@ I’m a passionate programmer who enjoys building web and mobile applications. I
 
 > These projects are hosted here or are in development.
 
+-🚀 Astro Vortex
+A 2D space shooter built with HTML5 Canvas. Battle alien forces inside a collapsing space-time vortex.
+Tech: HTML, CSS, JavaScript
+Status: In Development
+
+
 
 
 ---
