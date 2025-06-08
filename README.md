@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f3e&height=200&section=header&text=Adrian%20Louie%20Laruan&fontSize=40&fontColor=ffffff" />
-
 # 👨‍💻 About Me
 
 I’m a passionate programmer who enjoys building web and mobile applications. I work with a variety of languages and tools, and I love exploring new tech. I'm currently leveling up my GitHub profile and working on exciting personal projects.
