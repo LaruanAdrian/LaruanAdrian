@@ -1,7 +1,4 @@
-<!-- Galaxy Banner -->
-## 🌌 Sample GIF Test
 
-![Galaxy Animation](https://i.imgur.com/qK42fUu.gif)
 
 # 👨‍💻 About Me
 
