@@ -10,11 +10,7 @@ I’m a passionate programmer who enjoys building web and mobile applications. I
 
 > These projects are hosted here or are in development.
 
-### 🚀 [Astro Vortex](https://laruanadrian.github.io/astro-vortex/)
-A 2D side-scrolling space shooter where you fight through alien waves inside a collapsing vortex.  
-**Tech Stack:** HTML5, CSS3, JavaScript  
-**Status:** In Development  
-**Features:** Canvas-based rendering, player movement, game loop, planned enemies and power-ups.
+
 
 
 
